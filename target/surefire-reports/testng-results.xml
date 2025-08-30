@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-30T14:05:40 IST" name="Suite" finished-at="2025-08-30T14:05:41 IST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2025-08-30T14:05:40 IST" name="Test" finished-at="2025-08-30T14:05:41 IST" duration-ms="49">
+      <class name="day1.soft">
+        <test-method signature="assert1()[pri:0, instance:day1.soft@7722c3c3]" started-at="2025-08-30T14:05:41 IST" name="assert1" finished-at="2025-08-30T14:05:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assert1 -->
+      </class> <!-- day1.soft -->
+      <class name="day1.soft1">
+        <test-method signature="assert5()[pri:0, instance:day1.soft1@3427b02d]" started-at="2025-08-30T14:05:41 IST" name="assert5" finished-at="2025-08-30T14:05:41 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assert5 -->
+      </class> <!-- day1.soft1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

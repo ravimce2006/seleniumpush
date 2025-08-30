@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Annotation Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Annotation Tests(failed)">
+    <classes>
+      <class name="day2.Testannotation">
+        <methods>
+          <include name="skiipedtest"/>
+          <include name="btest"/>
+        </methods>
+      </class> <!-- day2.Testannotation -->
+    </classes>
+  </test> <!-- Annotation Tests(failed) -->
+</suite> <!-- Failed suite [Annotation Suite] -->
