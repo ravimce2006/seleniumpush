@@ -16,6 +16,7 @@ public class soft {
 		 soft.assertTrue(5>3); // True;
 		 soft.assertFalse(5<3); // False
 		 soft.assertEquals("RAVI","RAVI","Mismathed"); // Fail
+		 soft.assertEquals("kumar","kumar");
 		 soft.assertAll();
 	}
 	
